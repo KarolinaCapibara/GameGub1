@@ -91,12 +91,12 @@ footer img {
     
 }
 
-.image-container{
+.image-container {
     display: flex;
     justify-content: center;
 }
 
-.image-container img{
+.image-container img {
     margin: 0 10px;
 }
 
